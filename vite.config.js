@@ -27,6 +27,6 @@ export default defineConfig({
   },
 
   // NOTE If deploying to gh-pages uncomment the line below (https://vitejs.dev/config/shared-options.html#base)
-  // base: '/gh_action_deploy_vue/'
+  base: '/gh_action_deploy_vue/'
 })
 
