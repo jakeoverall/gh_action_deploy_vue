@@ -1,0 +1,1 @@
+import{_ as t,a as o,o as s,b as a}from"./index-rfpJFXZP.js";const n={},r={class:"about"};function c(_,e){return s(),o("div",r,[...e[0]||(e[0]=[a("h1",null,"This is the about page",-1)])])}const l=t(n,[["render",c]]);export{l as default};
